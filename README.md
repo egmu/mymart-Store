@@ -12,7 +12,7 @@
 > php init
 ```
 
-# Change File
+# Change DataBase
 Change file main-local.php
 ```php
 'db' => [
@@ -23,7 +23,12 @@ Change file main-local.php
             'charset' => 'utf8',
         ],
 ```
-
+# Run Mymart-Store
+## In Crome/Your Browser
+```
+> mymart-Store/frontend/web
+> mymart-Store/backend/web
+```
 
 
 DIRECTORY STRUCTURE
